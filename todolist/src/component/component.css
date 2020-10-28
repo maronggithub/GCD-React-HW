@@ -1,0 +1,79 @@
+/* 头部组件的位置设定 */
+
+.Header {
+  background-color: white;
+  height: 30%;
+}
+
+h1,
+h2 {
+  margin-left: 20px;
+  font-family: Apple Chancery, cursive;
+}
+
+h2 {
+  font-family: Snell Roundhand, cursive;
+}
+
+.HeaderInput {
+  width: 60%;
+  height: 30px;
+  border-style: solid;
+  border-color: rgb(212, 210, 205);
+}
+#InputButton {
+  height: 36px;
+  width: 70px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.ButtonAdd {
+  color: white;
+  background-color: #f3a4a4;
+  border-radius: 10px;
+  border: 0px;
+  font-size: 20px;
+  font-weight: 700;
+}
+/* 任务展示栏组件的位置设定 */
+
+.Item {
+  background-color: white;
+  width: 100%;
+  height: 500px;
+}
+
+/* 尾部组件的位置设定 */
+
+.Footer {
+  background-color: white;
+  height: 103px;
+}
+
+#nav {
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 35px;
+  padding-bottom: 32px;
+}
+
+li {
+  width: 140px;
+  background-color: white;
+  color: #f19090;
+  float: right;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Apple Chancery, cursive;
+}
+
+.FoorterItemTwo {
+  margin-right: 40px;
+}
+.FoorterItemOne {
+  margin-right: 20%;
+}
