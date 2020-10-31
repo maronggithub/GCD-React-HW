@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GCD-React-HW/static/css/main.a198dd8b.chunk.css",
+    "main.js": "/GCD-React-HW/static/js/main.c41a8872.chunk.js",
+    "main.js.map": "/GCD-React-HW/static/js/main.c41a8872.chunk.js.map",
+    "runtime-main.js": "/GCD-React-HW/static/js/runtime-main.81c0c41a.js",
+    "runtime-main.js.map": "/GCD-React-HW/static/js/runtime-main.81c0c41a.js.map",
+    "static/js/2.a88de3ed.chunk.js": "/GCD-React-HW/static/js/2.a88de3ed.chunk.js",
+    "static/js/2.a88de3ed.chunk.js.map": "/GCD-React-HW/static/js/2.a88de3ed.chunk.js.map",
+    "index.html": "/GCD-React-HW/index.html",
+    "static/css/main.a198dd8b.chunk.css.map": "/GCD-React-HW/static/css/main.a198dd8b.chunk.css.map",
+    "static/js/2.a88de3ed.chunk.js.LICENSE.txt": "/GCD-React-HW/static/js/2.a88de3ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81c0c41a.js",
+    "static/js/2.a88de3ed.chunk.js",
+    "static/css/main.a198dd8b.chunk.css",
+    "static/js/main.c41a8872.chunk.js"
+  ]
+}
