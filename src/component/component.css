@@ -20,11 +20,12 @@ h2 {
   height: 30px;
   border-style: solid;
   border-color: rgb(212, 210, 205);
+  margin-left: 20px;
 }
 #InputButton {
   height: 36px;
   width: 70px;
-  margin-left: 10px;
+  margin-left: 30px;
   margin-bottom: 10px;
 }
 
